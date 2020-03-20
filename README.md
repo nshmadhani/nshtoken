@@ -1,4 +1,4 @@
-# NashhToken
+# NashToken
 
 NashToken is a ERC-20 compliant Token, devleoped using Solidity and Ethereum.
 
